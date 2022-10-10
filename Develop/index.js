@@ -62,13 +62,20 @@ const questions =
     {
         type: 'input',
         message: 'What is the github name?',
-        name: 'github'
+        name: 'github',
     },
     {
         type: 'input',
         message: 'What is the email address?',
-        name:'email'
+        name:'email',
+    },
+    {
+        type: 'list',
+        message: 'Please choose a license',
+        name: 'license',
+        choices: ['none', 'Apache', 'BSD', 'BSD 2', 'GNU', 'MIT', 'Mozilla', 'Eclipse', 'WTFPL']
     }
+
 ];
 
 

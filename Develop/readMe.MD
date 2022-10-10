@@ -1,47 +1,51 @@
-# generate readme
+
+  
+  ![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
+  
+  # q
 
   ## Description
 
-  This project is a readme generator for coding projects. By making a generator template, this will allow for effecient creation of readme files. The project was created with an emphasis on Javascript and NodeJS.
+  w
 
 
   ## Table of Contents
-  *[Installation](#Installation)
-
-  *[Usage](#Usage)
-  
-  *[Credits](#Credits)
-
-  *[Tests](#Tests)
-
-  *[Questions](#Questions)
+    -[Installation](#Installation)
+    -[Usage](#Usage)
+    -[Credits](#Credits)
+    -[Tests](#Tests)
+    -[Questions](#Questions)
 
   ## Installation
 
-  Instructions to be provided with video example. Project can be downloaded through github, and ran through local terminal.
+  r
 
 
   ## Usage
 
-  Project requires 'Inquirier' Node.JS and ran through terminal.
+  t
 
   ![]()
 
 
   ## Credits
 
-  NA
+  a
 
 
   ## Tests
 
-  Tests done through local computer
+  s
 
 
   ## Questions
 
   Please reach me with the following:
-  samlee088
-  sam.lee088@hotmail.com
+  github.com/f
+  g
+
+  ## License
+
+  WTFPL
 
 
