@@ -15,6 +15,47 @@ function generateMarkdown(data) {
   console.log(data);
   return `# ${data.title}
 
+  ## Description
+
+  ${data.projectDescription}
+
+
+  ## Table of Contents
+  -[Installation](#Installation)
+  -[Usage](#Usage)
+  -[Credits](#Credits)
+  -[Tests](#Tests)
+  -[Questions](#Questions)
+
+  ## Installation
+
+  ${data.installation}
+
+
+  ## Usage
+
+  ${data.usage}
+
+  ![]()
+
+
+  ## Credits
+
+  ${data.contributors}
+
+
+  ## Tests
+
+  ${data.tests}
+
+
+  ## Questions
+
+  Please reach me with the following:
+  ${data.github}
+  ${data.email}
+
+
 `;
 }
 
