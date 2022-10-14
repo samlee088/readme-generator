@@ -73,7 +73,7 @@ const questions =
         type: 'list',
         message: 'Please choose a license',
         name: 'license',
-        choices: ['none', 'Apache', 'BSD', 'BSD 2', 'GNU', 'MIT', 'Mozilla', 'Eclipse', 'WTFPL']
+        choices: ['none', 'Apache', 'BSD 3', 'BSD 2', 'GNU', 'MIT', 'Mozilla', 'Eclipse', 'WTFPL']
     }
 
 ];
