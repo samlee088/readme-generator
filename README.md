@@ -19,10 +19,13 @@ Project additionally requires ‘Inquirer’ NPM
 ![gif showing example run through of the readme generator](./Develop/Animation.gif)
 
 Requirements:
+
 Node.JS
+
 Inquirer NPM installed version 8.2.4 recommended
 
--One the requirements are met, the program can be triggered with 'node index.js' through a terminal window. The user can then follow the prompts on the screen with inputs for various questions. After all of the prompts are answered, a readme markdown file will be generated. 
+
+-Once the requirements are met, the program can be triggered with 'node index.js' through a terminal window. The user can then follow the prompts on the screen with inputs for various questions. After all of the prompts are answered, a readme markdown file will be generated. 
 
 ## Credits
 
