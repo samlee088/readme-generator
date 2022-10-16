@@ -94,13 +94,10 @@ switch(license) {
 
 //function to create the markdown with a readme template
 function generateMarkdown(data) {
-  console.log(data);
+ 
   renderLicenseBadge(`${data.license}`);
   renderLicenseLink(`${data.license}`);
-  console.log(`${data.license}`);
-  console.log(licenseBadge[0]);
-  console.log(`${licenseBadge[0]}`);
-  console.log(`${licenseLink[0]}`);
+
 
   return `
   
