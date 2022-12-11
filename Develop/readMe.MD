@@ -1,52 +1,45 @@
+[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
 
-  
-  
-  
-  # note-taker
+# readme-generator
 
-  ## Description
+## Description
 
-  This is a project that was created in order for a user to jot down notes into a list and delete them when the notes are not needed anymore. The app works off of a client server model and is available through heroku.  Additionally the project was created with an emphasis on express.js, 
+This was a project created to generate readme files for further projects.
 
+## Table of Contents
 
-  ## Table of Contents
-  - [Installation](#Installation)
-  - [Usage](#Usage)
-  - [Credits](#Credits)
-  - [Tests](#Tests)
-  - [Questions](#Questions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-  ## Installation
+## Installation
 
-  Available through Github, or through heroku link
+Files can be downloaded from github
 
+## Usage
 
-  ## Usage
+Project is ran through a terminal with node.js
 
-  This can be used locally with a download, or online through Heroku
+![]()
 
-  ![]()
+## Contributing
 
+na
 
-  ## Credits
+## Tests
 
-  NA
+na
 
+## Questions
 
-  ## Tests
+Please reach me with any of the following:
+github.com/samlee088
+sam.lee088@hotmail.com
 
-  NA
+## License
 
-
-  ## Questions
-
-  Please reach me with the following:
-  github.com/samlee088
-  sam.lee088@hotmail.com
-
-  ## License
-
-  none
-  NA
-
-
+WTFPL
+[WTFPL License](http://www.wtfpl.net/about/)

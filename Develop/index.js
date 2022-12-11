@@ -1,6 +1,6 @@
 
 const fs = require('fs');
-const inquirier = require('inquirer');
+const inquirer = require('inquirer');
 const markDown = require('./utils/generateMarkdown');
 
 // Array of questions for inputs in the readme
@@ -49,12 +49,6 @@ const questions =
     },
     {
         type: 'input',
-        message: 'What are the questions?',
-        name: 'questions',
-
-    },
-    {
-        type: 'input',
         message: 'What is the github name?',
         name: 'github',
     },
@@ -83,11 +77,11 @@ function writeToFile(fileName, data) {
 
 //Function to start the prompt questions, and then take the response to create the file
 function init() {
-inquirier 
-    .prompt(questions)
-    .then((response) => {
-        writeToFile('readMe.MD', markDown(response));
-    })
+    inquirer 
+        .prompt(questions)
+        .then((response) => {
+            writeToFile('readMe.MD', markDown(response));
+        })
 };
 
 

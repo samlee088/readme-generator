@@ -111,11 +111,12 @@ function generateMarkdown(data) {
 
 
   ## Table of Contents
-  - [Installation](#Installation)
-  - [Usage](#Usage)
-  - [Credits](#Credits)
-  - [Tests](#Tests)
-  - [Questions](#Questions)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
   ## Installation
 
@@ -129,7 +130,7 @@ function generateMarkdown(data) {
   ![]()
 
 
-  ## Credits
+  ## Contributing
 
   ${data.contributors}
 
@@ -141,7 +142,7 @@ function generateMarkdown(data) {
 
   ## Questions
 
-  Please reach me with the following:
+  Please reach me with any of the following:
   github.com/${data.github}
   ${data.email}
 
